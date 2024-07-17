@@ -1,16 +1,16 @@
 # Ryan-s_Repair_PS4
 This is an Instructional tutorial for Ryan. PS5/PS4 Jailbreak info's Facebook group. Documented for use by anyone who may deal with similar issues. Turorial post will be updated with more information until the issue is resolved. 
 
-Issue: PS4 needs to be updated to 2.55 or later. Initializing new SSD with USB update Fails, black screen, powers off.
-Status: Unresolved
+-Issue: PS4 needs to be updated to 2.55 or later. Initializing new SSD with USB update Fails, black screen, powers off.
+-Status: Unresolved
 
-Last firmware: 11.52
-Last moddable firmware: 11.00
-Suggested moddable firmware: 9.00
-Requested firmware: 5.05
-Current firmware: 2.55
-PS4 Model: TBD
-SSD: WD Blue 1TB
+-Last firmware: 11.52
+-Last moddable firmware: 11.00
+-Suggested moddable firmware: 9.00
+-Requested firmware: 5.05
+-Current firmware: 2.55
+-PS4 Model: TBD
+-SSD: WD Blue 1TB
 
 (WARNING)
 - Please carefully read, do not skip through this tutorial as I will not be held accountable or reliable for anyone's inability to follow instructions if so any damages occure to your drives, usb's or PS4 console.

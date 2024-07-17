@@ -16,7 +16,7 @@ SSD: WD Blue 1TB
 - Please carefully read, do not skip through this tutorial as I will not be held accountable or reliable for anyone's inability to follow instructions if so any damages occure to your drives, usb's or PS4 console.
 
 Note: 
-- DOWNLAOD PREPACKED ((((OPTIONAL)))), USE LINKS IF NOT WORKING OR UNTRUSTED
+- DOWNLAOD PREPACKED FROM RELEASES ((((OPTIONAL)))), USE LINKS IF NOT WORKING OR UNTRUSTED
 - If any of this is already done, do it anyways. We're running a clean install.
 - Keep in mind that the firmware being installed needs to be equivilent or greater to the previous firmware installed. 
 - You will need to repeat step (3) until you locate a functional firmware without the use of mobo diognostics

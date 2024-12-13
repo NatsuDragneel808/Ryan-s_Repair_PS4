@@ -1,4 +1,4 @@
-# Ryan-s_Repair_PS4
+# Ryan-s_Repair_PS4 (THIS PROJECT IS DEPRICATED AND NO LONGER BEING WORKED ON)
 This is an Instructional tutorial for Ryan. PS5/PS4 Jailbreak info's Facebook group. Documented for use by anyone who may deal with similar issues. Turorial post will be updated with more information until the issue is resolved. 
 
 -Issue: PS4 needs to be updated to 2.55 or later. Initializing new SSD with USB update Fails, black screen, powers off.
